@@ -19,13 +19,24 @@ public class RunnableDemo {
     }
 }
 /* // Hita's Code
-public class RunnableDemo {
-    public static void main(String[] args) {
-    // we can use this without using ananomous class
-        thread1 t1= new thread1();
-        thread2 t2=new thread2();
-        Thread X= new Thread(t1);
-        Thread Y= new Thread(t2);
-    }
+package com.tnsif.threads;
+
+public class ThreadMethodDemo {
+
+	public static void main(String[] args) {
+		ChildThread one=new ChildThread(5,"First");
+		ChildThread two=new ChildThread(10,"Second");
+		one.setPriority(Thread.MIN_PRIORITY);
+		two.setPriority(Thread.MAX_PRIORITY);
+		one.start();
+		two.start();
+		//Thread.currentThread().setName("Parent");
+		Thread.currentThread().setPriority(Thread.MIN_PRIORITY);
+
+		System.out.println("Current thread "+ Thread.currentThread());
+
+	}
+
+
 }
 */
