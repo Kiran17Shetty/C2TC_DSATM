@@ -39,7 +39,7 @@ public class ArrayListDemo {
         Iterator<String> it= names.iterator();
         System.out.println("Iterated Elements :");
         while(it.hasNext()){
-            System.out.println( it.next());
+            System.out.print( it.next()+ "\t");
         }
 
 
