@@ -1,4 +1,4 @@
-package com.dsatm.day2;
+package com.dsatm.ControlFlowStatements;
 
 public class ForEachLoop {
     public static void main(String[] args) {

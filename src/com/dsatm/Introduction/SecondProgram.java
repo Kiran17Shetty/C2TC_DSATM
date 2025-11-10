@@ -1,4 +1,4 @@
-package com.dsatm.day1;
+package com.dsatm.Introduction;
 
 public class SecondProgram {
     public static void main(String[] args) {

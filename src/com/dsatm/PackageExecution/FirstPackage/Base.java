@@ -1,5 +1,5 @@
 // Progarm to Demonstrate package and access modifiers
-package com.dsatm.day4.FirstPackage;
+package com.dsatm.PackageExecution.FirstPackage;
 
 
 

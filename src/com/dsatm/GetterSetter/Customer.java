@@ -1,4 +1,4 @@
-package com.dsatm.day3;
+package com.dsatm.GetterSetter;
 
 public class Customer {
     private String name;

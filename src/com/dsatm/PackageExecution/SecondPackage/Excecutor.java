@@ -1,6 +1,6 @@
-package com.dsatm.day4.SecondPackage;
+package com.dsatm.PackageExecution.SecondPackage;
 
-import com.dsatm.day4.FirstPackage.Base;
+import com.dsatm.PackageExecution.FirstPackage.Base;
 
 public class Excecutor {
 

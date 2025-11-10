@@ -1,4 +1,4 @@
-package com.dsatm.day3;
+package com.dsatm.GetterSetter;
 import java.util.Scanner;
 public class PersonDemo {
     public static void main(String[] args){

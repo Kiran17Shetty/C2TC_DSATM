@@ -1,4 +1,4 @@
-package com.dsatm.day4.ThirdPackage;
+package com.dsatm.PackageExecution.ThirdPackage;
 
 public class MyClass {
 

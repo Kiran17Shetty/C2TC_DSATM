@@ -1,4 +1,4 @@
-package com.dsatm.day3;
+package com.dsatm.GetterSetter;
 
 public class Person {
     private String name;

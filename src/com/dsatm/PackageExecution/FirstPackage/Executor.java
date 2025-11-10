@@ -1,4 +1,4 @@
-package com.dsatm.day4.FirstPackage;
+package com.dsatm.PackageExecution.FirstPackage;
 
 public class Executor {
 
